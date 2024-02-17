@@ -1,6 +1,8 @@
 # auth_task
 
-A new Flutter project.
+UI Section:
+![AuthTask](https://github.com/ZiadAhmedHelmy/auth-mobile-app_Intern2Grow/assets/145056091/f5bb8a5a-95bb-4c1b-b875-dc4dacdadcda)
+
 
 ## Getting Started
 
